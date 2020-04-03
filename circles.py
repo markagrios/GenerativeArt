@@ -15,7 +15,7 @@ rnd.seed(seed,version=2)
 CSIZE = 800
 n = 6
 nCircles = 7
-colors = ['#ffffff','#ffffff','#8ab7ff','#aad186','#e85d9e','#8ab7ff','#aad186','#e85d9e','#8ab7ff','#aad186','#e85d9e','#8ab7ff','#aad186','#e85d9e']
+colors = ['#ffffff','#8ab7ff','#aad186','#e85d9e','#8ab7ff','#aad186','#e85d9e']
 
 
 cellRad = np.floor(CSIZE/(2*n))

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="800" height="800" viewBox="0 -800 800 800">
+<defs>
+</defs>
+<path d="M234,-130 L234,-182" stroke-width="20" stroke="black" />
+<circle cx="182" cy="-182" r="52.0" stroke-dasharray="81.68140899333463 245.04422698000388" stroke-dashoffset="-245.04422698000386" stroke="black" stroke-width="20" fill="black" fill-opacity="0.0" />
+<path d="M182,-234 L130,-234" stroke-width="20" stroke="black" />
+</svg>

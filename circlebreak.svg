@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="800" height="800" viewBox="-400.0 -400.0 800 800">
+<defs>
+</defs>
+<circle cx="0" cy="0" r="100" stroke-dasharray="571.1986642890532 57.119866428905425" stroke-dashoffset="-57.11986642890536" stroke="black" stroke-width="2.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="104" stroke-dasharray="594.0466108606154 59.40466108606165" stroke-dashoffset="-59.40466108606158" stroke="black" stroke-width="2.111111111111111" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="108" stroke-dasharray="616.8945574321775 61.68945574321776" stroke-dashoffset="-61.68945574321779" stroke="black" stroke-width="2.2222222222222223" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="112" stroke-dasharray="639.7425040037397 63.97425040037399" stroke-dashoffset="-63.974250400374004" stroke="black" stroke-width="2.3333333333333335" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="116" stroke-dasharray="662.5904505753017 66.25904505753033" stroke-dashoffset="-66.25904505753022" stroke="black" stroke-width="2.4444444444444446" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="120" stroke-dasharray="685.4383971468638 68.54383971468644" stroke-dashoffset="-68.54383971468644" stroke="black" stroke-width="2.5555555555555554" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="124" stroke-dasharray="708.286343718426 70.82863437184267" stroke-dashoffset="-70.82863437184265" stroke="black" stroke-width="2.6666666666666665" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="128" stroke-dasharray="731.1342902899881 73.1134290289989" stroke-dashoffset="-73.11342902899887" stroke="black" stroke-width="2.7777777777777777" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="132" stroke-dasharray="753.9822368615503 75.39822368615512" stroke-dashoffset="-75.39822368615508" stroke="black" stroke-width="2.888888888888889" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="136" stroke-dasharray="776.8301834331124 77.68301834331135" stroke-dashoffset="-77.68301834331129" stroke="black" stroke-width="3.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="140" stroke-dasharray="639.7425040037397 239.90343900140238" stroke-dashoffset="-559.7746910032722" stroke="black" stroke-width="2.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="144" stroke-dasharray="658.0208612609894 246.75782297287105" stroke-dashoffset="-575.7682536033657" stroke="black" stroke-width="2.111111111111111" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="148" stroke-dasharray="676.2992185182391 253.61220694433973" stroke-dashoffset="-591.7618162034593" stroke="black" stroke-width="2.2222222222222223" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="152" stroke-dasharray="694.5775757754889 260.4665909158082" stroke-dashoffset="-607.7553788035527" stroke="black" stroke-width="2.3333333333333335" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="156" stroke-dasharray="712.8559330327386 267.32097488727686" stroke-dashoffset="-623.7489414036462" stroke="black" stroke-width="2.4444444444444446" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="160" stroke-dasharray="731.1342902899883 274.17535885874554" stroke-dashoffset="-639.7425040037397" stroke="black" stroke-width="2.5555555555555554" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="164" stroke-dasharray="749.412647547238 281.0297428302141" stroke-dashoffset="-655.7360666038331" stroke="black" stroke-width="2.6666666666666665" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="168" stroke-dasharray="767.6910048044876 287.8841268016829" stroke-dashoffset="-671.7296292039267" stroke="black" stroke-width="2.7777777777777777" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="172" stroke-dasharray="785.9693620617373 294.73851077315146" stroke-dashoffset="-687.7231918040202" stroke="black" stroke-width="2.888888888888889" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="176" stroke-dasharray="804.247719318987 301.59289474462" stroke-dashoffset="-703.7167544041137" stroke="black" stroke-width="3.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="180" stroke-dasharray="616.8945574321776 514.0787978601479" stroke-dashoffset="-616.8945574321776" stroke="black" stroke-width="2.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="184" stroke-dasharray="630.6033253751149 525.5027711459289" stroke-dashoffset="-630.6033253751149" stroke="black" stroke-width="2.111111111111111" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="188" stroke-dasharray="644.3120933180521 536.9267444317102" stroke-dashoffset="-644.3120933180521" stroke="black" stroke-width="2.2222222222222223" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="192" stroke-dasharray="658.0208612609895 548.3507177174911" stroke-dashoffset="-658.0208612609895" stroke="black" stroke-width="2.3333333333333335" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="196" stroke-dasharray="671.7296292039267 559.7746910032721" stroke-dashoffset="-671.7296292039267" stroke="black" stroke-width="2.4444444444444446" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="200" stroke-dasharray="685.438397146864 571.1986642890533" stroke-dashoffset="-685.438397146864" stroke="black" stroke-width="2.5555555555555554" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="204" stroke-dasharray="699.1471650898013 582.6226375748342" stroke-dashoffset="-699.1471650898013" stroke="black" stroke-width="2.6666666666666665" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="208" stroke-dasharray="712.8559330327386 594.0466108606155" stroke-dashoffset="-712.8559330327386" stroke="black" stroke-width="2.7777777777777777" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="212" stroke-dasharray="726.5647009756758 605.4705841463965" stroke-dashoffset="-726.5647009756758" stroke="black" stroke-width="2.888888888888889" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="216" stroke-dasharray="740.2734689186132 616.8945574321774" stroke-dashoffset="-740.2734689186132" stroke="black" stroke-width="3.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="220" stroke-dasharray="1005.3096491487338 376.99111843077526" stroke-dashoffset="-125.6637061435918" stroke="black" stroke-width="2.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="224" stroke-dasharray="1023.5880064059835 383.8455024022438" stroke-dashoffset="-127.94850080074801" stroke="black" stroke-width="2.111111111111111" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="228" stroke-dasharray="1041.8663636632332 390.6998863737124" stroke-dashoffset="-130.23329545790423" stroke="black" stroke-width="2.2222222222222223" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="232" stroke-dasharray="1060.144720920483 397.55427034518107" stroke-dashoffset="-132.51809011506043" stroke="black" stroke-width="2.3333333333333335" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="236" stroke-dasharray="1078.4230781777326 404.40865431664974" stroke-dashoffset="-134.80288477221666" stroke="black" stroke-width="2.4444444444444446" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="240" stroke-dasharray="1096.7014354349824 411.2630382881182" stroke-dashoffset="-137.08767942937288" stroke="black" stroke-width="2.5555555555555554" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="244" stroke-dasharray="1114.979792692232 418.1174222595871" stroke-dashoffset="-139.37247408652908" stroke="black" stroke-width="2.6666666666666665" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="248" stroke-dasharray="1133.2581499494818 424.97180623105555" stroke-dashoffset="-141.6572687436853" stroke="black" stroke-width="2.7777777777777777" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="252" stroke-dasharray="1151.5365072067314 431.82619020252446" stroke-dashoffset="-143.9420634008415" stroke="black" stroke-width="2.888888888888889" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="256" stroke-dasharray="1169.8148644639812 438.6805741739929" stroke-dashoffset="-146.22685805799773" stroke="black" stroke-width="3.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="260" stroke-dasharray="297.0233054303077 1336.6048744363848" stroke-dashoffset="-0.0" stroke="black" stroke-width="2.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="264" stroke-dasharray="301.5928947446201 1357.1680263507908" stroke-dashoffset="-0.0" stroke="black" stroke-width="2.111111111111111" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="268" stroke-dasharray="306.16248405893253 1377.7311782651966" stroke-dashoffset="-0.0" stroke="black" stroke-width="2.2222222222222223" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="272" stroke-dasharray="310.73207337324493 1398.2943301796026" stroke-dashoffset="-0.0" stroke="black" stroke-width="2.3333333333333335" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="276" stroke-dasharray="315.3016626875574 1418.8574820940084" stroke-dashoffset="-0.0" stroke="black" stroke-width="2.4444444444444446" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="280" stroke-dasharray="319.8712520018698 1439.4206340084143" stroke-dashoffset="-0.0" stroke="black" stroke-width="2.5555555555555554" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="284" stroke-dasharray="324.44084131618223 1459.9837859228203" stroke-dashoffset="-0.0" stroke="black" stroke-width="2.6666666666666665" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="288" stroke-dasharray="329.0104306304946 1480.5469378372263" stroke-dashoffset="-0.0" stroke="black" stroke-width="2.7777777777777777" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="292" stroke-dasharray="333.5800199448071 1501.1100897516321" stroke-dashoffset="-0.0" stroke="black" stroke-width="2.888888888888889" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="296" stroke-dasharray="338.1496092591195 1521.6732416660382" stroke-dashoffset="-0.0" stroke="black" stroke-width="3.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="300" stroke-dasharray="514.078797860148 1370.876794293728" stroke-dashoffset="-514.078797860148" stroke="black" stroke-width="2.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="304" stroke-dasharray="520.9331818316166 1389.1551515509775" stroke-dashoffset="-520.9331818316166" stroke="black" stroke-width="2.111111111111111" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="308" stroke-dasharray="527.7875658030853 1407.4335088082273" stroke-dashoffset="-527.7875658030853" stroke="black" stroke-width="2.2222222222222223" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="312" stroke-dasharray="534.641949774554 1425.711866065477" stroke-dashoffset="-534.641949774554" stroke="black" stroke-width="2.3333333333333335" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="316" stroke-dasharray="541.4963337460225 1443.9902233227267" stroke-dashoffset="-541.4963337460225" stroke="black" stroke-width="2.4444444444444446" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="320" stroke-dasharray="548.3507177174912 1462.2685805799765" stroke-dashoffset="-548.3507177174912" stroke="black" stroke-width="2.5555555555555554" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="324" stroke-dasharray="555.2051016889599 1480.5469378372259" stroke-dashoffset="-555.2051016889599" stroke="black" stroke-width="2.6666666666666665" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="328" stroke-dasharray="562.0594856604284 1498.8252950944757" stroke-dashoffset="-562.0594856604284" stroke="black" stroke-width="2.7777777777777777" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="332" stroke-dasharray="568.9138696318971 1517.1036523517257" stroke-dashoffset="-568.9138696318971" stroke="black" stroke-width="2.888888888888889" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="336" stroke-dasharray="575.7682536033658 1535.3820096089753" stroke-dashoffset="-575.7682536033658" stroke="black" stroke-width="3.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="340" stroke-dasharray="1942.075458582781 194.2075458582783" stroke-dashoffset="-1553.6603668662249" stroke="black" stroke-width="2.0" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="344" stroke-dasharray="1964.923405154343 196.49234051543453" stroke-dashoffset="-1571.9387241234747" stroke="black" stroke-width="2.111111111111111" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="348" stroke-dasharray="1987.7713517259053 198.77713517259053" stroke-dashoffset="-1590.2170813807245" stroke="black" stroke-width="2.2222222222222223" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="352" stroke-dasharray="2010.6192982974674 201.06192982974676" stroke-dashoffset="-1608.495438637974" stroke="black" stroke-width="2.3333333333333335" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="356" stroke-dasharray="2033.4672448690296 203.3467244869032" stroke-dashoffset="-1626.7737958952239" stroke="black" stroke-width="2.4444444444444446" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="360" stroke-dasharray="2056.3151914405917 205.63151914405944" stroke-dashoffset="-1645.0521531524735" stroke="black" stroke-width="2.5555555555555554" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="364" stroke-dasharray="2079.163138012154 207.91631380121544" stroke-dashoffset="-1663.3305104097233" stroke="black" stroke-width="2.6666666666666665" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="368" stroke-dasharray="2102.0110845837157 210.2011084583719" stroke-dashoffset="-1681.6088676669729" stroke="black" stroke-width="2.7777777777777777" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="372" stroke-dasharray="2124.859031155278 212.4859031155279" stroke-dashoffset="-1699.8872249242227" stroke="black" stroke-width="2.888888888888889" fill="red" fill-opacity="0.0" />
+<circle cx="0" cy="0" r="376" stroke-dasharray="2147.7069777268403 214.77069777268434" stroke-dashoffset="-1718.1655821814722" stroke="black" stroke-width="3.0" fill="red" fill-opacity="0.0" />
+</svg>
