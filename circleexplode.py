@@ -58,3 +58,4 @@ for i in range(spokes):
 
 
 d.saveSvg('circleexplode.svg')
+# d.savePng('circleexplode.png')

@@ -16,7 +16,7 @@ rnd.seed(seed,version=2)
 ########### parameters##########################################################
 
 CSIZE = 800
-n = 10
+n = 4
 nCircles = 7
 # colors = ['#ffffff','#8ab7ff','#aad186','#e85d9e','#8ab7ff','#aad186','#e85d9e']
 
@@ -63,3 +63,4 @@ for i in range(len(pts)):
 
 
 d.saveSvg('offset.svg')
+# d.savePng('offset.png')

@@ -51,3 +51,4 @@ for i in range(len(pts)):
 
 
 d.saveSvg('lines.svg')
+d.savePng('lines.png')

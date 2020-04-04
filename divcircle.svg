@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="800" height="800" viewBox="0 -800 800 800">
+<defs>
+</defs>
+<circle cx="200" cy="-200" r="200.0" fill="#d1c5b0" />
+<circle cx="200" cy="-600" r="200.0" fill="#916c87" />
+<circle cx="600" cy="-200" r="200.0" fill="#857999" />
+<circle cx="700.0" cy="-700.0" r="100.0" fill="#5c4141" />
+<circle cx="500.0" cy="-700.0" r="100.0" fill="#5c4141" />
+<circle cx="700.0" cy="-500.0" r="100.0" fill="#5c4141" />
+<circle cx="550.0" cy="-550.0" r="50.0" fill="#515f5f" />
+<circle cx="450.0" cy="-550.0" r="50.0" fill="#515f5f" />
+<circle cx="550.0" cy="-450.0" r="50.0" fill="#515f5f" />
+<circle cx="475.0" cy="-475.0" r="25.0" fill="#575050" />
+<circle cx="425.0" cy="-475.0" r="25.0" fill="#575050" />
+<circle cx="475.0" cy="-425.0" r="25.0" fill="#575050" />
+<circle cx="437.5" cy="-437.5" r="12.5" fill="#545757" />
+<circle cx="412.5" cy="-437.5" r="12.5" fill="#545757" />
+<circle cx="437.5" cy="-412.5" r="12.5" fill="#545757" />
+<circle cx="418.75" cy="-418.75" r="6.25" fill="#555454" />
+<circle cx="406.25" cy="-418.75" r="6.25" fill="#555454" />
+<circle cx="418.75" cy="-406.25" r="6.25" fill="#555454" />
+<circle cx="406.25" cy="-406.25" r="6.25" fill="#555454" />
+</svg>
